@@ -1,0 +1,14 @@
+public class FirstClass 
+
+static Integer i=10;
+firstMethod();
+
+{
+
+public static int firstMethod ()
+{
+ system.out.println("This is what I expect ")
+
+}
+
+}
